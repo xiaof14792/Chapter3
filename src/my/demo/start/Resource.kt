@@ -1,4 +1,4 @@
-package my.demo
+package my.demo.start
 
 import java.io.File
 import java.lang.ArithmeticException

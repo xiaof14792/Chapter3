@@ -1,4 +1,4 @@
-package my.demo
+package my.demo.start
 
 /**
 //定义一个函数接受两个Int型参数，返回值为Int

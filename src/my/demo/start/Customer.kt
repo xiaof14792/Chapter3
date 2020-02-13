@@ -1,10 +1,11 @@
-package my.demo
+package my.demo.start
 
 //创建DTOs数据类
 data class Customer(val name: String, val email: String)
 
 fun main(args: Array<String>) {
-    val customer: Customer = Customer("Bob", "Bob@zerophil.com")
+    val customer: Customer =
+        Customer("Bob", "Bob@zerophil.com")
     println("name:" + customer.name)
     println(map[3])
 
