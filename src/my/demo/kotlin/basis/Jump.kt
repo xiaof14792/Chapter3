@@ -1,4 +1,4 @@
-package my.demo.basis
+package my.demo.kotlin.basis
 
 //break和continue标签
 fun main(args: Array<String>) {

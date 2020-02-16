@@ -1,4 +1,4 @@
-package my.demo.start
+package my.demo.kotlin.start
 
 //创建DTOs数据类
 data class Customer(val name: String, val email: String)

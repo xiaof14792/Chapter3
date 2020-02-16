@@ -1,4 +1,4 @@
-package my.demo.start
+package my.demo.kotlin.start
 
 //冒号
 //冒号区分类型和父类型中要有空格，在实例和类型之间是没有空格的

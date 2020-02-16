@@ -1,4 +1,4 @@
-package my.demo.basis
+package my.demo.kotlin.basis
 
 //一个源文件从包声明开始
 
